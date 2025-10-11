@@ -1,6 +1,6 @@
 source :rubygems
 
-gem "sinatra"
+gem "sinatra", ">= 2.0.8"
 gem "haml"
 gem "httparty"
-gem "actionpack", ">= 6.0.0"
+gem "actionpack", ">= 6.1.4"
